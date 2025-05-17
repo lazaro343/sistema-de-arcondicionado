@@ -1,3 +1,5 @@
+//equipe: josé joélio e Lázaro santos
+
 #include <DHT.h>
 
 // Define o pino do sensor DHT
