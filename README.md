@@ -1,4 +1,3 @@
-Claro! Aqui está um exemplo de **README** em português para o seu projeto com Arduino, sensor de temperatura DHT22 e controle de relé para ar-condicionado:
 
 ---
 
@@ -112,4 +111,3 @@ Você pode instalá-la em: `Sketch > Incluir Biblioteca > Gerenciar Bibliotecas.
 
 ---
 
-Se quiser, posso gerar este README também em formato Markdown (`.md`) para você copiar ou usar diretamente em um repositório GitHub. Deseja isso?
